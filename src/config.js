@@ -7,7 +7,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "Your Prefix";
 const description = "Your Description";
-const baseUri = "D:/php74/htdocs/nft/nfts-generator/" + "build/images"; // like this D:/project/nft/nfts-generator/build/images
+const baseUri = "Your Path" + "build/images"; // like this D:/project/nft/nfts-generator/build/images
 const external_link_name = "Your external link"; // like this https://sazzadul.com/
 const collectionName = "Your collection name";
 const price = 0.005; // your price
