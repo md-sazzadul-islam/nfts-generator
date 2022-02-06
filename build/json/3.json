@@ -1,0 +1,41 @@
+{
+  "file_path": "your image path/3.png",
+  "nft_name": "Your Prefix #3",
+  "external_link": "Your external link",
+  "description": "Your Description",
+  "collection": "Your collection name",
+  "properties": [
+    {
+      "type": "background",
+      "name": "green"
+    },
+    {
+      "type": "swing cat",
+      "name": "swing cat"
+    },
+    {
+      "type": "swing",
+      "name": "swing"
+    },
+    {
+      "type": "swing cat dress",
+      "name": "swing cat dress 2"
+    },
+    {
+      "type": "swing cat cap",
+      "name": "cap 1"
+    }
+  ],
+  "levels": [],
+  "stats": [],
+  "unlockable_content": [],
+  "explicit_and_sensitive_content": false,
+  "supply": 1,
+  "blockchain": "Polygon",
+  "price": 0.005,
+  "quantity": 1,
+  "dna": "3bb0d2e13da495c5ff8f4f15a69dcff11faeabc1",
+  "edition": 3,
+  "date": 1644146846039,
+  "compiler": "HashLips Art Engine"
+}
