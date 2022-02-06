@@ -1,5 +1,5 @@
 {
-  "file_path": "your image path/10.png",
+  "file_path": "D:/php74/htdocs/nft/nfts-generator/build/images/10.png",
   "nft_name": "Your Prefix #10",
   "external_link": "Your external link",
   "description": "Your Description",
@@ -7,23 +7,23 @@
   "properties": [
     {
       "type": "background",
-      "name": "red"
-    },
-    {
-      "type": "swing cat",
-      "name": "swing cat"
+      "name": "white"
     },
     {
       "type": "swing",
       "name": "swing"
     },
     {
+      "type": "swing cat",
+      "name": "swing cat"
+    },
+    {
       "type": "swing cat dress",
-      "name": "swing cat dress 1"
+      "name": "swing cat dress 2"
     },
     {
       "type": "swing cat cap",
-      "name": "cap 1"
+      "name": "cap 2"
     }
   ],
   "levels": [],
@@ -34,8 +34,8 @@
   "blockchain": "Polygon",
   "price": 0.005,
   "quantity": 1,
-  "dna": "a5bf1424a6415280e7ee1717150ff2aa680d0e0a",
+  "dna": "52b26cb82ebabc4cbc37f92dda717d04bd039daa",
   "edition": 10,
-  "date": 1644146848217,
+  "date": 1644147424170,
   "compiler": "HashLips Art Engine"
 }
